@@ -68,5 +68,5 @@ This project is a demonstration of:
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request. Suggestions for new features, design improvements, or game mechanics are encouraged.
 
 ## **License**
-This project is licensed under the [GNU]()License. See the LICENSE file for more details.
+This project is licensed under the [GNU](https://github.com/stephenombuya/Role-Playing-Game/blob/main/LICENSE)License. See the LICENSE file for more details.
 
