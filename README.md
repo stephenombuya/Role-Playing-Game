@@ -1,6 +1,9 @@
 # **RPG - Dragon Repeller**
 RPG - Dragon Repeller is a simple browser-based role-playing game (RPG) created using HTML, CSS, and JavaScript. The objective of the game is to explore different locations and ultimately defeat the dragon that is terrorizing the town.
 
+## **Demo**
+[Live Demo](https://roleplayinggame2.netlify.app/)
+
 ## **Features**
 * **Interactive RPG**: Explore different areas like the store and cave, or engage in a battle with the dragon.
 * **Dynamic Stats**: Keep track of your character’s XP, Health, and Gold.
